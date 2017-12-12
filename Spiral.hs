@@ -1,6 +1,8 @@
 module Spiral where
 
 {-
+http://adventofcode.com/2017/day/3
+
 Coordinate system starts at square (0, 0)
 Cells are numbered from 0 (rather than 1 as in the problem)
 
